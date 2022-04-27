@@ -21,3 +21,9 @@ A virtual environment is where the projects dependencies are stored
 5: Install the project dependencies 
 
     pip install -r requirements.txt
+    
+## Walkthrough
+
+Before you interact with the application, go to `flutterwave` and create and account set up
+the api keys in your django project. To make it work with this
+application, use the value `http://127.0.0.1:8000/`.
