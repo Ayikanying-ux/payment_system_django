@@ -7,19 +7,19 @@ This is a simple django payment system that uses flutterwave to accept payments 
     https://github.com/Ayikanying-ux/payment_system_django.git
 
 2: Move into the directory of the project
-`cd payment_system_django`
+    cd payment_system_django
 
 3: Create a virtual environment.
 
-A virtual environment is where the projects dependencies are stored 
+    A virtual environment is where the projects dependencies are stored 
 
-To create a virtualenv move to the terminal and type
-`virtualenv env`
+    To create a virtualenv move to the terminal and enter the command
+    virtualenv env
 
 4: Activate the environment with the command
 
-`source env/Scripts/activate`
+    source env/Scripts/activate
 
 5: Install the project dependencies 
 
-    `pip install -r requirements.txt`
+    pip install -r requirements.txt
