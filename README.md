@@ -18,3 +18,7 @@ To create a virtualenv move to the terminal and type
 4: Activate the environment with the command
 
 `source env/Scripts/activate`
+
+5: Install the project dependencies 
+
+    `pip install -r requirements.txt`
