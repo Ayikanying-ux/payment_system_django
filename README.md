@@ -3,7 +3,8 @@ This is a simple django payment system that uses flutterwave to accept payments 
 
 # Getting started
 1: Clone the repo using this link
-`https://github.com/Ayikanying-ux/payment_system_django.git`
+
+    https://github.com/Ayikanying-ux/payment_system_django.git
 
 2: Move into the directory of the project
 `cd payment_system_django`
