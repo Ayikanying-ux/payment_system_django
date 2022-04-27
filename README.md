@@ -13,5 +13,6 @@ A virtual environment is where the projects dependencies are stored
 To create a virtualenv move to the terminal and type
 `virtualenv env`
 
-4: Activate the environment
-`source env/Scripts/activate'
+4: Activate the environment with the command
+
+`source env/Scripts/activate`
