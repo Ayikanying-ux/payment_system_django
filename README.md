@@ -9,7 +9,9 @@ This is a simple django payment system that uses flutterwave to accept payments 
 `cd payment_system_django`
 
 3: Create a virtual environment.
+
 A virtual environment is where the projects dependencies are stored 
+
 To create a virtualenv move to the terminal and type
 `virtualenv env`
 
